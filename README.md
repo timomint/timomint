@@ -33,7 +33,7 @@
     <img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
   </a>
   <a href="https://www.instagram.com/xxieqmizh/" target="_blank">
-    <img src="https://img.icons8.com/metro/52/000000/instagram-new.png"/>
+    <img src="https://img.icons8.com/ios/50/000000/instagram-new--v2.png"/>
   </a>
 </p>
 

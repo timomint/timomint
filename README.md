@@ -14,12 +14,14 @@
   
 - 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
 - 💻 I’m trying to study on Machine Learning and Web Development. 
+- 📖 I'm trying to learn foreign language : English, 日本語
 
 ![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timomint&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timomint&theme=dark&layout="compat")](https://github.com/timomint/github-readme-stats)
 
-### 📫 How to reach me:
+### 📫 How to reach me: *tadeothien@gmail.com*
 <p align="center">
+  
   <a href="https://www.facebook.com/tadeothien" alt="Facebook">
     <img src="https://img.icons8.com/ios/50/000000/facebook-new.png" />
   </a> 
@@ -35,6 +37,7 @@
   <a href="https://www.instagram.com/xxieqmizh/" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/instagram-new--v2.png"/>
   </a>
+                                                                       
 </p>
 
 

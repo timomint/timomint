@@ -19,10 +19,10 @@
 
 <p align="center">
   <a href="https://www.facebook.com/tadeothien" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/dusk/64/000000/facebook-new--v2.png" target="_blank" />
   </a> 
   <a href="https://github.com/timomint" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+    <img src="https://img.icons8.com/plasticine/100/000000/github.png"/>
   </a> 
   <a href="https://https://www.flickr.com/photos/timothylysf/" alt="Flickr" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>

@@ -6,7 +6,10 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
 
-⛪Catholic ~ 🎼USUK_muzic ~ 🍏minimalism ~ 📖love_reading ~ ☕hot_latte
+🎼USUK_muzic
+🍏minimalism
+📖love_reading
+☕hot_latte
 
   
 - 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
@@ -15,8 +18,7 @@
 ![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timomint&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timomint&theme=dark&layout="compat")](https://github.com/timomint/github-readme-stats)
 
-## 📫 How to reach me:
-
+### 📫 How to reach me:
 <p align="center">
   <a href="https://www.facebook.com/tadeothien" alt="Facebook">
     <img src="https://img.icons8.com/ios/50/000000/facebook-new.png" />
@@ -29,6 +31,9 @@
   </a>
   <a href="https://linkedin.com/in/timomint" target="_blank">
     <img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
+  </a>
+  <a href="https://www.instagram.com/xxieqmizh/" target="_blank">
+    <img src="https://img.icons8.com/metro/52/000000/instagram-new.png"/>
   </a>
 </p>
 

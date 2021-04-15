@@ -11,7 +11,6 @@
 📖love_reading
 ☕hot_latte
 
-  
 - 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
 - 💻 I’m trying to study on Machine Learning and Web Development. 
 - 📖 I'm trying to learn foreign language : English, 日本語

@@ -27,7 +27,7 @@
   <a href="https://github.com/timomint" alt="Github">
     <img src="https://img.icons8.com/ios/50/000000/github-2.png"/>
   </a> 
-  <a href="https://https://www.flickr.com/photos/timothylysf/" alt="Flickr" target="_blank" >
+  <a href="https://https://www.flickr.com/photos/timothylysf/" alt="Flickr">
     <img src="https://img.icons8.com/ios/50/000000/flickr.png""/>
   </a>
   <a href="https://linkedin.com/in/timomint" target="_blank">

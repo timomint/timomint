@@ -15,8 +15,9 @@
 - 💻 I’m trying to study on Machine Learning and Web Development. 
 - 📖 I'm trying to learn foreign language : English, 日本語
 
-![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timomint&count_private=true&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timomint&theme=dark&layout="compat")](https://github.com/timomint/github-readme-stats)
+![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timomint&count_private=true&show_icons=true&theme=dark)
+
 
 ### 📫 How to reach me: *tadeothien@gmail.com*
 <p align="center">

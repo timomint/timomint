@@ -15,6 +15,7 @@
 - 💻 I’m trying to study on Machine Learning and Web Development. 
 - 📖 I'm trying to learn foreign language : English, 日本語
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=timomint&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20Languages" alt="tiennhm" width="100%"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timomint&theme=dark&layout="compat")](https://github.com/timomint/github-readme-stats)
 ![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timomint&count_private=true&show_icons=true&theme=dark)
 

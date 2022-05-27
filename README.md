@@ -5,6 +5,8 @@
   <img src="https://badges.pufler.dev/repos/timomint" alt="timomint" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
+  <img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+    
   
   <div align="left">
     <h3>👨🏽‍💻 About me:</h3>

@@ -8,8 +8,10 @@
   
   <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Music 🎧 | Exercise 🏃 | NBA 🏀</b></p>
+        <p>• 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
+          <p>• 💻 I’m trying to study on Machine Learning and Web Development. 
+        <p>• ℹ️ Hobbies: 🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte</p>
+     <p>• 📖 I'm trying to learn foreign language : English, 日本語</p>
         <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
         <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
 </div><br>
@@ -18,15 +20,6 @@
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
 </div>
-
-🎼USUK_muzic
-🍏minimalism
-📖love_reading
-☕hot_latte
-
-- 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
-- 💻 I’m trying to study on Machine Learning and Web Development. 
-- 📖 I'm trying to learn foreign language : English, 日本語
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timomint&theme=dark&langs_count=10&layout=compat&custom_title=Top%20Languages)](https://github.com/timomint/github-readme-stats)
 ![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timomint&count_private=true&show_icons=true&theme=dark)

@@ -9,7 +9,7 @@
 </p>
   
 
-<div align="right"> ![avatar](https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)</div>
+![avatar](https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d)
   
     
   

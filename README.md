@@ -1,7 +1,5 @@
 <h1 align="left">Hi 👋, I'm timothy <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/> Catholic </h1>
 
-
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=timomint" alt="timomint" /> 
   <img src="https://badges.pufler.dev/repos/timomint" alt="timomint" /> 

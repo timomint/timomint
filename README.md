@@ -14,7 +14,7 @@
         <p> 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>  
   </div><br>
   ### Spotify Playing 🎧
-  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31npsnnro2eofqvxeuisu5q4wsvy)
+  ![Spotify](https://open.spotify.com/user/31npsnnro2eofqvxeuisu5q4wsvy)
 
 
 -----

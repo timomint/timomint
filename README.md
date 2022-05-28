@@ -6,6 +6,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
   
+<div>align="right" <img src='/Programming.gif'/></div>
+  
     
   
   <div align="left">

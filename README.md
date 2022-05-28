@@ -9,7 +9,7 @@
 </p>
   
 
-![avatar](https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg&w=300&fit=cover&mask=circle&maxage=7d)
+![avatar](https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg)
   
     
   

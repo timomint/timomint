@@ -5,18 +5,19 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=timomint" alt="timomint" /> 
   <img src="https://badges.pufler.dev/repos/timomint" alt="timomint" /> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
-       </p>  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")</p>  
   
   <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
-          <p>• 💻 I’m trying to study on Machine Learning and Web Development. 
-        <p>• ℹ️ Hobbies: 🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte</p>
-     <p>• 📖 I'm trying to learn foreign language : English, 日本語</p>
-        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
-</div><br>
+        <p> 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
+        <p> 💻 I’m trying to study on Machine Learning and Web Development. 
+        <p> 🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte</p>
+        <p> 📖 I'm trying to learn foreign language : English, 日本語</p>
+        <p> 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>  
+  </div><br>
+  ### Spotify Playing 🎧
+  [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31npsnnro2eofqvxeuisu5q4wsvy)
+
 
 -----
 <div align="center">

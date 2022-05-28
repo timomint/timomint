@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
   
-<div>align="right" <img src='/Programming.gif'/></div>
+<div align="right"> <img src='https://storyset.com/illustration/programming/amico/animate?share=44604'/></div>
   
     
   

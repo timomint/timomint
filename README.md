@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
   
-<div align="right"> <img src='/programming-script.svg'/></div>
+<div align="right"> <img src='https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg'/></div>
   
     
   
@@ -20,18 +20,15 @@
         <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
 </div><br>
 
+-----
 <div align="center">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timomint&theme=dark&langs_count=10&layout=compat&custom_title=Top%20Languages)](https://github.com/timomint/github-readme-stats)
-![Timothy's GitHub stats](https://github-readme-stats.vercel.app/api?username=timomint&count_private=true&show_icons=true&theme=dark)
-
-
+-----
 ### 📫 How to reach me: *tadeothien@gmail.com*
-<p align="center">
-  
+<p align="center">  
   <a href="https://www.facebook.com/tadeothien" alt="Facebook">
     <img src="https://img.icons8.com/ios/50/000000/facebook-new.png" />
   </a> 

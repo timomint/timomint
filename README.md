@@ -1,4 +1,11 @@
 <h1 align="left">Hi 👋, I'm timothy <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/> Catholic </h1>
+<style>
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}</style>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=timomint" alt="timomint" /> 
@@ -6,7 +13,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
   
-<div align="right"> <img width="300px" src='https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg'/></div>
+<div align="right"> <img class="avatar" width="300px" src='https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg'/></div>
   
     
   

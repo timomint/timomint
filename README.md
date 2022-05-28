@@ -6,7 +6,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
   
-<div align="right"> <img src='https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg'/></div>
+<div align="right"> <img height="300px" width="300px" src='https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg'/></div>
   
     
   

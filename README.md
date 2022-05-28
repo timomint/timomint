@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm timothy <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/> Catholic </h1>
-<style>
+
 
 
 <p align="center"> 
@@ -8,7 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
 </p>
   
-<div align="right"> <img radius="50%" width="300px" src='https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg'/></div>
+<div align="right"> <img border-radius="50%" width="300px" src='https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg'/></div>
   
     
   

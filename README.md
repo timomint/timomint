@@ -6,12 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=timomint" alt="timomint" /> 
   <img src="https://badges.pufler.dev/repos/timomint" alt="timomint" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")
-</p>
-  
-
-![avatar](https://live.staticflickr.com/65535/50975340952_df75b880c4_k.jpg)
-  
-    
+       </p>  
   
   <div align="left">
     <h3>👨🏽‍💻 About me:</h3>

@@ -8,14 +8,14 @@
 </p> <br>
 <h2>👨🏽‍💻 ABOUT ME :<div align="right"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/></div></h2>
 
+🎓 I’m currently learning Software Engineering at: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+💻 I’m trying to study on Machine Learning and Web Development. 
+🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte
+📖 I'm trying to learn foreign language : English, 日本語
+💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things.
 
-<div align="left">
-  🎓 I’m currently learning Software Engineering at: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
-        💻 I’m trying to study on Machine Learning and Web Development. 
-        🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte
-        📖 I'm trying to learn foreign language : English, 日本語
-        💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things.
-</div>
+
+
 <br>
 <h2>📬 MY CONTACTS</h2>
 

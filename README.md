@@ -14,7 +14,7 @@
 
 - 🎓 I’m currently learning Software Engineering at: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 - 💻 I’m studying Web Development. 
-- 🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte
+- 🎼USUK muzic | 🍏minimalism | 📖reading | ☕hot latte | 👟travelling
 - 📖 I'm learning two foreign languages: English, 日本語
 - 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things.
 <br>

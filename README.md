@@ -6,8 +6,7 @@
   <img src="https://badges.pufler.dev/repos/timothytnm26" alt="timothy" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timothytnm26")/>
 </p> <br>
-<h2>👨🏽‍💻 ABOUT ME :
-  <div align="right"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/></div>
+<h2>👨🏽‍💻 ABOUT ME :<div align="right"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/></div>
 </h2>
 
 

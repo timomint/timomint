@@ -1,5 +1,4 @@
-<img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/> Catholic </h1>
-
+<img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/>
 ![timothyBanner](./banner.png)
 
 

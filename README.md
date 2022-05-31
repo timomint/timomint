@@ -1,52 +1,89 @@
 <h1 align="left">Hi 👋, I'm timothy <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> <img src="https://img.icons8.com/fluent/48/000000/church.png"/> Catholic </h1>
 
+![timothyBanner](./banner.png)
+
+
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=timomint" alt="timomint" /> 
-  <img src="https://badges.pufler.dev/repos/timomint" alt="timomint" /> 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timomint")</p>  
-  
-  <div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
+  <img src="https://komarev.com/ghpvc/?username=timothytnm26&color=6E8B36" alt="timothy" /> 
+  <img src="https://badges.pufler.dev/repos/timothytnm26" alt="timothy" /> 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timothytnm26")/>
+</p> <br>
+<h2>👨🏽‍💻 ABOUT ME :</h2>
+
+----
+<div align="left">
         <p> 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
         <p> 💻 I’m trying to study on Machine Learning and Web Development. 
         <p> 🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte</p>
         <p> 📖 I'm trying to learn foreign language : English, 日本語</p>
         <p> 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>  
-  </div><br>
-  ### Spotify Playing 🎧
-  ![Spotify](https://open.spotify.com/user/31npsnnro2eofqvxeuisu5q4wsvy)
+  </div>
+<br>
+<h2>📬 MY CONTACTS</h2>
 
-
------
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="gabrlcj" />
-</div>
-
------
-### 📫 How to reach me: *tadeothien@gmail.com*
-<p align="center">  
-  <a href="https://www.facebook.com/tadeothien" alt="Facebook">
-    <img src="https://img.icons8.com/ios/50/000000/facebook-new.png" />
+---
+<p align="center">
+  <a href="https://www.linkedin.com/in/timothytran26/" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+  </a>
+  <a href="https://github.com/timothytnm26" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a>  
+  <a href="mailto:timothytnm@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluency/48/undefined/gmail-new.png"/>
+  </a>
+  <a href="https://www.facebook.com/timothytran26/" alt="Facebook">
+    <img src="https://img.icons8.com/color/48/undefined/facebook.png"/ target="_blank" />
   </a> 
-  <a href="https://github.com/timomint" alt="Github">
-    <img src="https://img.icons8.com/ios/50/000000/github-2.png"/>
-  </a> 
-  <a href="https://www.flickr.com/photos/timothylysf/" alt="Flickr">
-    <img src="https://img.icons8.com/ios/50/000000/flickr.png""/>
-  </a>
-  <a href="https://linkedin.com/in/timomint" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.instagram.com/xxieqmizh/" target="_blank">
-    <img src="https://img.icons8.com/ios/50/000000/instagram-new--v2.png"/>
-  </a>
-                                                                       
 </p>
+<br>
+<h2>📬 SKILLS</h2>
+
+---
+<h3>🎯 Languages:</h3>
+<p align="center">
+<img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+<img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+<img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/undefined/sass.png"/>
+</p>
+<h3>🎯 Frameworks/Libraries:</h3>
+<p align="center">
+<img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
+<img src="https://img.icons8.com/color/48/undefined/flutter.png"/>
+<img src="https://img.icons8.com/color/48/undefined/spring-logo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png"/>
+</p>
+<h3>🎯 Databases:</h3>
+<p align="center">
+<img src="https://img.icons8.com/color/48/undefined/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png"/>
+<img src="https://img.icons8.com/color/48/undefined/mysql-logo.png"/>
+
+</p>
+<h3>🎯 Tools:</h3>
+<p align="center">
+<img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/undefined/visual-studio--v2.png"/>
+<img src="https://img.icons8.com/officel/48/undefined/java-eclipse.png"/>
+<img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
+  <img src="https://img.icons8.com/fluency/48/undefined/anaconda--v2.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/adobe-illustrator--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/adobe-photoshop--v1.png"/>
+</p>
+<br>
 
 
+<h2>📌 MY GITHUB'S STATS</h2>
 
+-----
 
-
- 
-<!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
+<div align="left">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=timothytnm26&show_icons=true&line_height=26&count_private=true&title_color=6E8B36&text_color=000000&icon_color=6E8B36&bg_color=ffffff&hide_border=false&border_color=6E8B36" alt="timothy" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=timothytnm26&show_icons=true&title_color=6E8B36&text_color=000000&icon_color=0c0c0c&layout=compact&hide_border=false&bg_color=ffffff&border_color=6E8B36" alt="timothy" />
+</div>

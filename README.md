@@ -10,7 +10,7 @@
 </p> <br>
 <h2>👨🏽‍💻 ABOUT ME :</h2>
 
-----
+
 <div align="left">
         <p> 🎓 I’m currently learning Software Engineering at [HCMUTE-Ho Chi Minh City University of Technology and Education](http://en.hcmute.edu.vn/)
         <p> 💻 I’m trying to study on Machine Learning and Web Development. 
@@ -21,7 +21,7 @@
 <br>
 <h2>📬 MY CONTACTS</h2>
 
----
+
 <p align="center">
   <a href="https://www.linkedin.com/in/timothytran26/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
@@ -39,7 +39,7 @@
 <br>
 <h2>📬 SKILLS</h2>
 
----
+
 <h3>🎯 Languages:</h3>
 <p align="center">
 <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>

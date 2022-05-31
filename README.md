@@ -10,7 +10,7 @@
 
 
 <div align="left">
-        <p> 🎓 I’m currently learning Software Engineering at [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
+        <p> 🎓 I’m currently learning Software Engineering at: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
         <p> 💻 I’m trying to study on Machine Learning and Web Development. 
         <p> 🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte</p>
         <p> 📖 I'm trying to learn foreign language : English, 日本語</p>

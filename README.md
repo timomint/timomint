@@ -7,10 +7,11 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timothytnm26")/>
 </p> <br>
 <h2>👨🏽‍💻 ABOUT ME :</h2>
-<div align="right">
+<div align="center">
   <img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/church.png"/>
 </div>
+
 - 🎓 I’m currently learning Software Engineering at: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 - 💻 I’m studying Web Development. 
 - 🎼USUK_muzic | 🍏minimalism | 📖love_reading | ☕hot_latte

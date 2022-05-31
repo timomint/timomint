@@ -81,9 +81,7 @@
 
 <h2>📌 MY GITHUB'S STATS</h2>
 
------
-
 <div align="left">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=timothytnm26&show_icons=true&line_height=26&count_private=true&title_color=6E8B36&text_color=000000&icon_color=6E8B36&bg_color=ffffff&hide_border=false&border_color=6E8B36" alt="timothy" />
+    <img margin=20px, height="200em" src="https://github-readme-stats.vercel.app/api?username=timothytnm26&show_icons=true&line_height=26&count_private=true&title_color=6E8B36&text_color=000000&icon_color=6E8B36&bg_color=ffffff&hide_border=false&border_color=6E8B36" alt="timothy" />
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=timothytnm26&show_icons=true&title_color=6E8B36&text_color=000000&icon_color=0c0c0c&layout=compact&hide_border=false&bg_color=ffffff&border_color=6E8B36" alt="timothy" />
 </div>

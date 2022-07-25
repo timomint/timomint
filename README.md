@@ -34,7 +34,7 @@
 </p>
 <br>
 <h2>📬 SKILLS</h2>
-  <table width:100%>
+  <table width=100%>
     <tr>
       <td>🎯 Languages</td>
       <td>

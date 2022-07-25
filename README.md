@@ -36,51 +36,57 @@
 <h2>📬 SKILLS</h2>
   <table>
     <tr>
-      <td>🎯 Languages:</td>
-      <td><p align="center">
-  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/sass.png"/>
-</p> </td>
+      <td>🎯 Languages</td>
+      <td>
+          <p align="center">
+            <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/sass.png"/>
+          </p>
+      </td>
+    </tr>
+    <tr>
+      <td>🎯 Frameworks/Libraries</td>
+      <td>
+          <p align="center">
+            <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
+            <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/flutter.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/spring-logo.png"/>
+            <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png"/>
+          </p>
+      </td>
+    </tr>
+    <tr>
+      <td>🎯 Databases</td>
+      <td>
+          <p align="center">
+             <img src="https://img.icons8.com/color/48/undefined/mongodb.png"/>
+             <img src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png"/>
+          </p>
+      </td>
+    </tr>
+    <tr>
+      <td>🎯 Tools</td>
+      <td>
+          <p align="center">
+             <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/visual-studio--v2.png"/>
+            <img src="https://img.icons8.com/officel/48/undefined/java-eclipse.png"/>
+            <img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
+            <img src="https://img.icons8.com/fluency/48/undefined/anaconda--v2.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/figma--v1.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/adobe-illustrator--v1.png"/>
+            <img src="https://img.icons8.com/color/48/undefined/adobe-photoshop--v1.png"/>
+          </p>
+      </td>
     </tr>
   </table>
-<h3>🎯 Languages:</h3>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/undefined/sass.png"/>
-</p>  
-<h3>🎯 Frameworks/Libraries:</h3>
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/flutter.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/spring-logo.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png"/>
-  </p>  
-<h3>🎯 Databases:</h3>
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/undefined/mongodb.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png"/>
-</p>  
-<h3>🎯 Tools:</h3>
-  <p align="center">
-    <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/visual-studio--v2.png"/>
-    <img src="https://img.icons8.com/officel/48/undefined/java-eclipse.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/><img src="https://img.icons8.com/material-outlined/48/undefined/github.png"/>
-    <img src="https://img.icons8.com/fluency/48/undefined/anaconda--v2.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/figma--v1.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/adobe-illustrator--v1.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/adobe-photoshop--v1.png"/>
-  </p>
+
 <br>
 <h2>📌 MY GITHUB'S STATS</h2>
   <div align="center">

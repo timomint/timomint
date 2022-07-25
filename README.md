@@ -56,7 +56,6 @@
   <p align="center">
     <img src="https://img.icons8.com/color/48/undefined/mongodb.png"/>
     <img src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png"/>
-    <img src="https://img.icons8.com/color/48/undefined/mysql-logo.png"/>
 </p>  
 <h3>🎯 Tools:</h3>
   <p align="center">

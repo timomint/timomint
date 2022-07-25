@@ -32,7 +32,7 @@
     <img src="https://img.icons8.com/color/48/undefined/facebook.png"/ target="_blank" />
   </a> 
 </p>
-<br>
+
 <h2>📬 SKILLS</h2>
   <table width=100%>
     <tr>

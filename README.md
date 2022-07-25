@@ -51,7 +51,7 @@
     <tr>
       <td>🎯 Frameworks/Libraries</td>
       <td>
-          <p align="center">
+          <p vertical-align="center">
             <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
             <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
             <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>

@@ -34,6 +34,19 @@
 </p>
 <br>
 <h2>📬 SKILLS</h2>
+  <table>
+    <tr>
+      <td>🎯 Languages:</td>
+      <td><p align="center">
+  <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/undefined/sass.png"/>
+</p> </td>
+    </tr>
+  </table>
 <h3>🎯 Languages:</h3>
 <p align="center">
   <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>

@@ -37,8 +37,8 @@
   <table width=100%>
     <tr>
       <td>🎯 Languages</td>
-      <td>
-         <div>
+      <td >
+         <div align="center">
             <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
             <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
             <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
@@ -50,8 +50,8 @@
     </tr>
     <tr>
       <td>🎯 Frameworks/Libraries</td>
-      <td vertical-align="middle">
-          <div>
+      <td>
+          <div align="center">
             <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
             <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
             <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
@@ -64,16 +64,16 @@
     <tr>
       <td>🎯 Databases</td>
       <td>
-          <p align="center">
+          <div align="center">
              <img src="https://img.icons8.com/color/48/undefined/mongodb.png"/>
              <img src="https://img.icons8.com/color/48/undefined/microsoft-sql-server.png"/>
-          </p>
+          </div>
       </td>
     </tr>
     <tr>
       <td>🎯 Tools</td>
       <td>
-          <p align="center">
+          <div align="center">
              <img src="https://img.icons8.com/color/48/undefined/visual-studio-code-2019.png"/>
             <img src="https://img.icons8.com/color/48/undefined/visual-studio--v2.png"/>
             <img src="https://img.icons8.com/officel/48/undefined/java-eclipse.png"/>
@@ -82,7 +82,7 @@
             <img src="https://img.icons8.com/color/48/undefined/figma--v1.png"/>
             <img src="https://img.icons8.com/color/48/undefined/adobe-illustrator--v1.png"/>
             <img src="https://img.icons8.com/color/48/undefined/adobe-photoshop--v1.png"/>
-          </p>
+          </div>
       </td>
     </tr>
   </table>

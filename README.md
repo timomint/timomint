@@ -50,15 +50,15 @@
     </tr>
     <tr>
       <td>🎯 Frameworks/Libraries</td>
-      <td>
-          <p vertical-align="center">
+      <td vertical-align="middle">
+          
             <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
             <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
             <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
             <img src="https://img.icons8.com/color/48/undefined/flutter.png"/>
             <img src="https://img.icons8.com/color/48/undefined/spring-logo.png"/>
             <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png"/>
-          </p>
+         
       </td>
     </tr>
     <tr>

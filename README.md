@@ -38,27 +38,27 @@
     <tr>
       <td>🎯 Languages</td>
       <td>
-          <p align="center">
+         <div>
             <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
             <img src="https://img.icons8.com/color/48/undefined/c-sharp-logo.png"/>
             <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
             <img src="https://img.icons8.com/color/48/undefined/javascript--v1.png"/>
             <img src="https://img.icons8.com/color/48/undefined/html-5--v1.png"/>
             <img src="https://img.icons8.com/color/48/undefined/sass.png"/>
-          </p>
+        </div>
       </td>
     </tr>
     <tr>
       <td>🎯 Frameworks/Libraries</td>
       <td vertical-align="middle">
-          
+          <div>
             <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
             <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-color-tal-revivo.png"/>
             <img src="https://img.icons8.com/color/48/undefined/bootstrap.png"/>
             <img src="https://img.icons8.com/color/48/undefined/flutter.png"/>
             <img src="https://img.icons8.com/color/48/undefined/spring-logo.png"/>
             <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/undefined/external-net-or-dot-net-a-software-framework-developed-by-microsoft-logo-color-tal-revivo.png"/>
-         
+         </div>
       </td>
     </tr>
     <tr>

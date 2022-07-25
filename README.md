@@ -2,7 +2,6 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=timothytnm26&color=6E8B36" alt="timothy" /> 
-  <img src="https://badges.pufler.dev/repos/timothytnm26" alt="timothy" /> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=timomint.timothytnm26")/>
 </p> <br>
 <h2>👨🏽‍💻 ABOUT ME :</h2>
